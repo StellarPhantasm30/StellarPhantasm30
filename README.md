@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Java, DataStructures, Selenium, Cucumber, Jenkins**
+- 💬 Ask me about **Java, DataStructures, SpringBoot, Redis, Kafka, Selenium, Cucumber, Jenkins**
 
 - 📫 How to reach me **adityame0010@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/stellarphantasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stellarphantasm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityadev30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stellarphantasm" height="30" width="40" /></a>
 <a href="https://instagram.com/deadly_demigod30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deadly_demigod30" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/stellarphantasm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="stellarphantasm" height="30" width="40" /></a>
 </p>
